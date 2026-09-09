@@ -6,5 +6,5 @@ Currently building [OS Keyboard](https://os-keyboard.com). 10X-ing the efficienc
 
 AI tools tinking: [pi #8961](https://github.com/earendil-works/pi/issues/8961), my [pi extensions](https://github.com/stanley50z/sz-pi-extensions) and [pi-auto-mode](https://github.com/stanley50z/sz-pi-auto-mode) and [pi-subagents](https://github.com/stanley50z/sz-pi-subagents)
 
-A glimpse of my opinion on how "AI Keyboard" should actually work and where local llm can be actually useful and make sense to use: [my ece capstone](https://course.ece.cmu.edu/~ece500/projects/s26-teamc4/)
+A glimpse of my opinion on how "AI Keyboard" should actually work and where local llm can actually be useful and make sense to use: [my ece capstone](https://course.ece.cmu.edu/~ece500/projects/s26-teamc4/)
 
